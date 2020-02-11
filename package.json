@@ -1,0 +1,22 @@
+{
+  "name": "testenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiggimortao/testeNode.git"
+  },
+  "author": "Luiggi Orlandini Feriato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiggimortao/testeNode/issues"
+  },
+  "homepage": "https://github.com/luiggimortao/testeNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
